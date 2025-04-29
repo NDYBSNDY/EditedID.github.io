@@ -1,1 +1,1 @@
-# Tune-A-Video Project Page
+# EditedID Project Page
